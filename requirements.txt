@@ -1,1 +1,2 @@
 notebook=6.1.1
+ipywidgets=7.5.1
